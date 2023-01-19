@@ -9,4 +9,4 @@ link_to = "https://docs.google.com/document/d/1CLoduaQRbPzJGqAE4PdWs9HycnkCjQOQ/
 +++
 
 Example project page
-<!--local_image = "/projects/project-1.jpg"-->
+`local_image = "/projects/project-1.jpg"`
