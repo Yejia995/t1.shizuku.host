@@ -1,4 +1,4 @@
-base_url = "https://t1.shizuku.host/projects/"
+base_url = "https://not-matthias.github.io/apollo/"
 title = "T1-ENGR"
 build_search_index = true
 generate_feed = true
@@ -24,7 +24,8 @@ menu = [
 ]
 
 socials = [
-    { name = "github", url = "https://github.com/Yejia995/t1.shizuku.host", icon = "github" },
+    { name = "twitter", url = "https://twitter.com/not_matthias", icon = "twitter" },
+    { name = "github", url = "https://github.com/not-matthias/", icon = "github" },
 ]
 
 custom_css = []
