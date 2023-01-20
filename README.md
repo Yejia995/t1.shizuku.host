@@ -1,6 +1,6 @@
 # apollo
 
-Modern and minimalistic blog theme powered by [Zola](https://getzola.org). See a live preview [here](https://t1.shizuku.host/projects).
+Modern and minimalistic blog theme powered by [Zola](https://getzola.org). See a live preview [here](https://t1.shizuku.host).
 
 <sub><sup>Named after the greek god of knowledge, wisdom and intellect</sup></sub>
 
