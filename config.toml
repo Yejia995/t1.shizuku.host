@@ -1,4 +1,4 @@
-base_url = "https://t1.shizuku.host/projects"
+base_url = "https://t1.shizuku.host/projects/"
 title = "T1-ENGR"
 build_search_index = true
 generate_feed = true
