@@ -1,4 +1,4 @@
-base_url = "https://not-matthias.github.io/apollo/"
+base_url = "#"
 title = "T1-ENGR"
 build_search_index = true
 generate_feed = true
