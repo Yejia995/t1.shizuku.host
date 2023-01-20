@@ -1,5 +1,5 @@
-base_url = "https://t1.shizuku.host/projects/"
-title = "T1-ENGR"
+base_url = "https://not-matthias.github.io/apollo/"
+title = "not-matthias"
 build_search_index = true
 generate_feed = true
 compile_sass = true
@@ -24,12 +24,13 @@ menu = [
 ]
 
 socials = [
-    { name = "github", url = "https://github.com/Yejia995/t1.shizuku.host", icon = "github" },
+    { name = "twitter", url = "https://twitter.com/not_matthias", icon = "twitter" },
+    { name = "github", url = "https://github.com/not-matthias/", icon = "github" },
 ]
 
 custom_css = []
 
 [extra.analytics]
 enabled = true
-goatcounter_user = "Yejia995"
-goatcounter_host = "t1.shizuku.host"    # default= goatcounter.com
+goatcounter_user = "your_user"
+goatcounter_host = "example.com"    # default= goatcounter.com
