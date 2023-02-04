@@ -16,7 +16,7 @@ title: "CEQ4"
 
 - [x] Consulting firms
 
-**Researchers use the reactor as a** neutron **source to study engineering, health science, chemistry, pharmacy, agriculture, biology, and nanotechnology.**
+**Researchers use the reactor as a** `neutron` **source to study engineering, health science, chemistry, pharmacy, agriculture, biology, and nanotechnology.**
 
 **What do students use to learn about the fundamentals of reactor physics and operation?**
 

@@ -31,7 +31,7 @@ title: "CEQ6"
 - [ ] Develop an autonomous robot
 
 **Approximately what percentage of MSE undergraduates participate in research with professors?**
-`50`
+- `50`
 
 
 ## About

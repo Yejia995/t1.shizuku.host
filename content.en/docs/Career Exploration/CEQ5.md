@@ -23,7 +23,7 @@ title: "CEQ5"
 - [x] A manufacturing company
 
 **How many additional years of study are necessary to receive a combined Bachelors and Masters in EEE?**
-`one`
+- `one`
 
 
 ## About
