@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "CEQ6"
+title: "Exploration Quiz 6"
 ---
 
 ## CEQ6: Career Exploration MSE quiz

@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "CEQ5"
+title: "Exploration Quiz 5"
 ---
 
 ## CEQ5: Career Exploration EEE quiz

@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "CEQ4"
+title: "Exploration Quiz 4"
 ---
 
 ## CEQ4: Career Exploration NE quiz
