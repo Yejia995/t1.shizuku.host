@@ -28,7 +28,7 @@ title: "PCV Quiz 14"
 
 **How to interpret this formula: =IF(B2<30,"freshman") for the table below:**
 
-![Functions1.png](Functions1.png)
+![Functions1.png](https://github.com/Yejia995/t1.shizuku.host/raw/main/content.en/docs/Quiz/Pre-Class%20Videos/Functions1.png)
 
 - [ ] Neither answer is correct
 
@@ -38,7 +38,7 @@ title: "PCV Quiz 14"
 
 **When is a student considered a "sophomore", based on the logical function provided in D6?**
 
-![Functions2.png](Functions2.png)
+![Functions2.png](https://github.com/Yejia995/t1.shizuku.host/raw/main/content.en/docs/Quiz/Pre-Class%20Videos/Functions2.png)
 
 - [ ] When a student has less than 30 credit hours or more than 59 credit hours 
 
@@ -50,7 +50,7 @@ title: "PCV Quiz 14"
 
 **Interpret: =IF(AND(B2>=95, C2>3.6), "graduate distinction"):**
 
-![Functions3.png](Functions3.png)
+![Functions3.png](https://github.com/Yejia995/t1.shizuku.host/raw/main/content.en/docs/Quiz/Pre-Class%20Videos/Functions3.png)
 
 - [ ] If a student has more than 90 credit hours, and GPA over 3.6 , they will graduate with distinction
 

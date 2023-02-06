@@ -30,7 +30,7 @@ title: "PCV Quiz 15"
 
 **"Normal distribution" refers to which type of a curve:**
 
- ![NormalDistribution](NormalDistribution.png)
+ ![NormalDistribution](https://github.com/Yejia995/t1.shizuku.host/raw/main/content.en/docs/Quiz/Pre-Class%20Videos/NormalDistribution.png)
 
 **Skewness is a measure of ___**
 	
